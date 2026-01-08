@@ -8,5 +8,11 @@
 		"nameAddress": "0x0146E6F4",
 		"hpAddress": "0x014757AC",
 		"name": "client.exe"
+	},
+	{
+		"nameAddress": "0x014781F8",
+		"hpAddress": "0x014757AC",
+		"Description":"VanRO Global",
+		"name": "client.exe"
 	}
 ]
