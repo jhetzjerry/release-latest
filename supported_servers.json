@@ -14,5 +14,11 @@
 		"hpAddress": "0x014757AC",
 		"Description":"VanRO Global",
 		"name": "client"
+	},
+	{
+		"nameAddress": "0x0157787C",
+		"hpAddress": "0x00097A18",
+		"Description":"BrynhildRO",
+		"name": "client"
 	}
 ]
