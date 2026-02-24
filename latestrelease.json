@@ -30,6 +30,7 @@
   "target_commitish": "main",
   "name": "v2.9.7",
   "trap": "false",
+  "validclient": "0001,0002,0003",
   "draft": false,
   "prerelease": false,
   "created_at": "2025-03-13T17:34:11Z",
