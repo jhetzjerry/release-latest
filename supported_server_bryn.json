@@ -1,5 +1,11 @@
 [
 	{
+		"nameAddress": "0x014781F8",
+		"hpAddress": "0x0157EFE4",
+		"Description":"BrynhildRO",
+		"name": "client"
+	},
+	{
 		"nameAddress": "0x0157787C",
 		"hpAddress": "0x0157EFE4",
 		"Description":"BrynhildRO",
