@@ -1,21 +1,5 @@
 [
 	{
-		"nameAddress": "0x0146E6F4",
-		"hpAddress": "0x014757AC",
-		"name": "VanRO Global | Gepard Shield 3.0 (^-_-^)"
-	},
-	{
-		"nameAddress": "0x0146E6F4",
-		"hpAddress": "0x014757AC",
-		"name": "client.exe"
-	},
-	{
-		"nameAddress": "0x014781F8",
-		"hpAddress": "0x014757AC",
-		"Description":"VanRO Global",
-		"name": "client"
-	},
-	{
 		"nameAddress": "0x015DB2B8",
 		"hpAddress": "0x015D8668",
 		"Description":"VanRO Global",
