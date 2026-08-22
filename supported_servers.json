@@ -1,5 +1,12 @@
 [
 	{
+    "name": "FullRO",
+    "description": "FullRO Global",
+    "site": "https://fullro.net/",
+    "hpAddress": "0x015D8668",
+    "nameAddress": "0x015DB2B8"
+  },
+	{
 		"nameAddress": "0x015DB2B8",
 		"hpAddress": "0x015D8668",
 		"Description":"VanRO Global",
